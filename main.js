@@ -3,3 +3,6 @@ function helloTest(){
 }
 
 console.log("hello");
+console.log("hello");
+
+console.log("hello");
