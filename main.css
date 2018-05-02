@@ -1,6 +1,16 @@
 body{
-    background-color: red;
-    color: white;
+    background-color: #eee;
+    color: black;
+}
+
+.main {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 2em;
+}
+
+img {
+  height: 550px;
 }
 
 button{
